@@ -1,1 +1,4 @@
-This repository is created and owned by Aritra Bhattacharya. The purpose of this repository being a store house of files created during internship training and online courses. 
+Purpose of current repository:
+Repository created for storage of files and documents during created for internship uploading purposes. These files contain submission data created corresponding the tasks assigned during the internships.
+
+Repository owned by: Aritra Bhattacharya

@@ -15,6 +15,7 @@
 * Tableau 2019.4
 * SQL Server (SSDT-BI, SSIS)
 * Microsoft Excel (for csv, xlsx, xls)
+* Microsoft PowerPoint (for ppt)
 * Jupyter Notebook (for python)
 * R Studio (for R)
 * GitHub Desktop (for maintaining repository)
@@ -27,3 +28,6 @@ Pre-requisites:
 * RStudio
 * Tableau 2019.4 OR Tableau Public
 * Microsoft Excel
+
+** Step 1- Make sure pre-requisites are all present in local device
+** Step 2- 

@@ -28,6 +28,9 @@ Pre-requisites:
 * RStudio
 * Tableau 2019.4 OR Tableau Public
 * Microsoft Excel
-
-** Step 1- Make sure pre-requisites are all present in local device
-** Step 2- 
+After the above criteria are fulfilled:
+* Step 1- Pull request from repository OR download directly in zip format into local machine and extract.
+* Step 2- Install and configure relevant to workbook type (RStudio for R files, Jupyter Notebook for python files)
+* Step 3- Open workbook
+* Step 4- Load relevant workbook file OR change working directory
+* Step 5- Run all the lines for output 

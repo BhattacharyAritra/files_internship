@@ -6,5 +6,9 @@
 ## General Information
 
 ## Technologies
+* Python Programming Language (numpy, pandas, matplotlib, seaborn)
+* R Programming Language
+* Tableau 2019.4
+* SQL Server (SSDT-BI, SSIS)
 
 ## Setup

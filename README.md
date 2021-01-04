@@ -2,6 +2,7 @@
 * [General Information](#general-information)
 * [Technologies](technologies-and-tools)
 * [Setup](setup)
+* [Status](status)
 
 ## General Information
 * This repository does not hold any software development project. Files are created in local machine and uploaded in github for storage and easy access.
@@ -34,3 +35,6 @@ After the above criteria are fulfilled:
 * Step 3- Open workbook
 * Step 4- Load relevant workbook file OR change working directory
 * Step 5- Run all the lines for output 
+
+## Status
+* Repositories still under maintenance

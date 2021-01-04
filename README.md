@@ -1,8 +1,8 @@
 ## Table of Contents
 * [General Information](#general-information)
-* [Technologies](technologies-and-tools)
-* [Setup](setup)
-* [Status](status)
+* [Technologies](#technologies-and-tools)
+* [Setup](#setup)
+* [Status](#status)
 
 ## General Information
 * This repository does not hold any software development project. Files are created in local machine and uploaded in github for storage and easy access.

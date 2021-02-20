@@ -36,5 +36,11 @@ After the above criteria are fulfilled:
 * Step 4- Load relevant workbook file OR change working directory
 * Step 5- Run all the lines for output 
 
+## Google colab
+* All .ipynb files uploaded are runnable via google colab.
+* Download from this repository and upload in google drive if files are/maybe required to be accessed from multiple devices.
+* Download from this repository into local machine and create a runtime environment and upload file into colab runtime.
+* If uploaded into drive, the consequent drive will be required to be mounted into the runtime environment at the very beginning to perform any type of task.
+
 ## Status
 * Repositories still under maintenance
